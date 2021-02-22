@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="text_about_the_game">Guess on letters to figure out the word before you get hung.\nWhen you guess on a correct letter that letter is written out on all occurring places in the word.\nWhen you guess wrong the gallows is being built.\nYou have 10 attempts.\n\nProgrammed by: Sebastian Warvsten</string>
+    <string name="result">Result</string>
+    <string name="you_lose">To bad you lose, try again</string>
+    <string name="correct_word_was">"The correct word was: "</string>
+    <string name="you_win">Congratulation you won!</string>
+    <string name="attempts_left">attempts left:\n</string>
+    <string name="hangman">Hangman</string>
+    <string name="start_game">Start Game</string>
+    <string name="about">About</string>
+    <string name="guess">Guess</string>
+    <string name="back_to_main_menu">Main Menu</string>
+    <string name="correct_word_is">The correct word is: </string>
+    <string name="number_of_attempts_left">"Number of attempts left: "</string>
+    <string name="icecream">ICECREAM</string>
+    <string name="library">LIBRARY</string>
+    <string name="axe">AXE</string>
+    <string name="statue">STATUE</string>
+    <string name="juggler">JUGGLER</string>
+    <string name="charused">That character has already been used</string>
+    <string name="nocharacter">You need to guess on a character</string>
+</resources>

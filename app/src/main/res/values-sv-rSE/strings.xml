@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hänga Gubben</string>
+    <string name="text_about_the_game">Gissa på bokstäver för att lista ut ordet innan du blir hängd.\nOm du gissar rätt skrivs bokstaven ut på alla platser i ordet.\nOm du gissar fel börjar galgen byggas.\nDu har 10 försök.\n\nProgrammerad av: Sebastian Warvsten</string>
+    <string name="you_win">Grattis, du har vunnit!</string>
+    <string name="you_lose">Du har förlorat, försök igen!</string>
+    <string name="correct_word_was">"Det rätta ordet var: "</string>
+    <string name="result">Resultat</string>
+    <string name="attempts_left">försök kvar:\n</string>
+    <string name="hangman">Hänga Gubben</string>
+    <string name="about">Om</string>
+    <string name="start_game">Starta Spel</string>
+    <string name="guess">Gissa</string>
+    <string name="back_to_main_menu">Huvudmenyn</string>
+    <string name="correct_word_is">"Det rätta ordet är: "</string>
+    <string name="number_of_attempts_left">"Antal försök kvar: "</string>
+    <string name="icecream">GLASS</string>
+    <string name="library">BIBLIOTEK</string>
+    <string name="axe">YXA</string>
+    <string name="statue">STATY</string>
+    <string name="juggler">JONGLERARE</string>
+    <string name="charused">Den bokstaven har redan blivit använd</string>
+    <string name="nocharacter">Du måste ange en bokstav</string>
+</resources>
